@@ -4,5 +4,6 @@ AM_SILENT_RULES([yes])
 AC_PROG_CC
 AC_CONFIG_FILES([
   Makefile
+  subdir1/Makefile
 ])
 AC_OUTPUT
