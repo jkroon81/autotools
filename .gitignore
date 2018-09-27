@@ -1,0 +1,17 @@
+*.o
+*.swp
+Makefile
+Makefile.in
+/.deps
+/aclocal.m4
+/autom4te.cache
+/compile
+/config.cache
+/config.log
+/config.status
+/configure
+/depcomp
+/install-sh
+/missing
+
+/snakeman
