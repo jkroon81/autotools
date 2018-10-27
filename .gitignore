@@ -7,12 +7,15 @@ Makefile.in
 /autom4te.cache
 /compile
 /config.cache
+/config.h
+/config.h.in
 /config.log
 /config.status
 /configure
 /depcomp
 /install-sh
 /missing
+/stamp-h1
 
 /snakeman
 /subdir1/snakeman2
