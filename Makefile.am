@@ -1,3 +1,3 @@
-bin_PROGRAMS = snakeman
+bin_PROGRAMS = snakeman subdir1/snakeman2
 snakeman_SOURCES = main.c
-SUBDIRS = subdir1
+subdir1_snakeman2_SOURCES = subdir1/main.c
