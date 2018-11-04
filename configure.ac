@@ -1,4 +1,5 @@
 AC_INIT([snakeman], [1.0])
+LT_INIT
 AC_CONFIG_HEADERS([config.h])
 AM_INIT_AUTOMAKE([foreign subdir-objects])
 AM_SILENT_RULES([yes])
