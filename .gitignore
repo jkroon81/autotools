@@ -28,3 +28,5 @@ Makefile.in
 
 /snakeman
 /subdir1/snakeman2
+/subdir2/snakeman3
+/subdir2/subdir3/snakeman4
