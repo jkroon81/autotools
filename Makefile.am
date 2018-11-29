@@ -6,3 +6,4 @@ noinst_LTLIBRARIES =
 
 include subdir1/Makefile.am
 include subdir2/Makefile.am
+include extra.am
